@@ -1,2 +1,2 @@
 # CommUtils
-A Communication based utility addon for Garry's Mod
+A communication based utility addon for Garry's Mod
